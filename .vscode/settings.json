@@ -1,0 +1,10 @@
+{
+    "latex-workshop.chktex.enabled": false,
+    "latex-workshop.docker.enabled": true,
+    "latex-workshop.docker.image.latex": "bonychops/docker-ubuntu-tex-ja:1.0",
+    "latex-workshop.latex.autoBuild.run": "never",
+    "latex-workshop.latex.outDir": ".",
+    "latex-workshop.synctex.synctexjs.enabled": false,
+    //"latex-workshop.synctex.afterBuild.enabled": true,
+    "latex-workshop.view.pdf.viewer": "tab",
+}
